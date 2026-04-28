@@ -7,11 +7,25 @@ html {
 h1 {
     color: white;
     font-weight: normal;
-    font-size: 3.12em;
+    font-size: 6.2em;
     text-align: center;
+    padding: 3.2px;
 }
 
-h5 {
+/*link and video*/
+.midSection {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+}
+
+p .cta {
     color: aquamarine;
-    text-align: center;
+    font-size: 2em;
+    font-weight: lighter;
+}
+
+video {
+
 }
